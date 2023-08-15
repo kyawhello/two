@@ -1,0 +1,76 @@
+    1  gh repo clone Joeri-Abbo/techworld-with-nana-java-maven-app
+    2  git repo clone Joeri-Abbo/techworld-with-nana-java-maven-app
+    3  clear
+    4  git clone https://github.com/Joeri-Abbo/techworld-with-nana-java-maven-app.git
+    5  pwd
+    6  ls
+    7  clear
+    8  pwd
+    9  ls
+   10  sudo mkdir code
+   11  mkdir code
+   12  mv techworld-with-nana-java-maven-app/ code/
+   13  cd code
+   14  git init
+   15  git add .
+   16  cd  techworld-with-nana-java-maven-app/
+   17  git init
+   18  git add .
+   19  git commit 
+   20  git remote add https://github.com/kyawhello/test
+   21  ls
+   22  cd ..
+   23  ls
+   24  cd ..
+   25  mkdir test
+   26  mkdir app
+   27  cd app
+   28  git init
+   29  touch file1
+   30  git add .
+   31  git status
+   32  git commit -m "initial commit"
+   33   git config --global user.email "kyawjohhello@gmail.com"
+   34  git config --global user.name "kyawhello"
+   35  git commit -m "initial commit"
+   36  git remote add app https://github.com/kyawhello/test.git
+   37   git push -u testing master
+   38   git push -u app master
+   39  ls
+   40  cd ..
+   41  ls
+   42  ls
+   43  cd /users/
+   44  cd users
+   45  cd C:/users
+   46  ls
+   47  cd Administrator/
+   48  ls
+   49  cd Code
+   50  ls
+   51  cd techworld-with-nana-java-maven-app/
+   52  ls
+   53  cd ..
+   54  git push -u techworld-with-nana-java-maven-app/ master
+   55* git remote add techworld-with-nana-java-maven-app/ https://github.com/kyawhello/one
+   56  git push -u techworld-with-nana-java-maven-app/ master
+   57  cd techworld-with-nana-java-maven-app/
+   58  git init
+   59  git add .
+   60  git status
+   61  cd .. 
+   62  mv techworld-with-nana-java-maven-app/ ..
+   63  cd ..
+   64  ls
+   65  git init
+   66  cd techworld-with-nana-java-maven-app/
+   67  git init
+   68  git add .
+   69  git status
+   70  git remote add /techworld-with-nana-java-maven-app https://github.com/kyawhello/one.git
+   71  git remote add techworld-with-nana-java-maven-app https://github.com/kyawhello/one.git
+   72  git push -u one master
+   73  git push -u /techworld-with-nana-java-maven-app master
+   74  git push -u techworld-with-nana-java-maven-app master
+   75  git push -u techworld-with-nana-java-maven-app/kubernetes master
+   76  history > /c/Users/Administrator/myapp/text
